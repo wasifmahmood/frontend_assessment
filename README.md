@@ -4,18 +4,18 @@
 
 1. You are not allowed to push code to this repository. Therefore you are required to create a copy of this repository on your own github account and work / push on it. Hint: Make good use of git clone, git fork, git plugins for vs code etc. After completing the assessment, email the link of repository of your account at hr@systemplus.co. 
 
-2. You have to build out the "Interactive Comment Section" and get it looking as close to the design as possible. Also your design should be mobile responsive.
+2. You have to build the "Interactive Comment Section" and get it looking as close to the design as possible. Also your design should be mobile responsive. Also user can perform tasks which are explained in the Point #4 as well as in the Prototype Video.
 
-- Figma Link: https://www.figma.com/file/gdcGm5P12QnYrtuEJcq6TL/Front-End-Assignment?node-id=3%3A34
+- Figma Link: https://www.figma.com/file/gdcGm5P12QnYrtuEJcq6TL/Front-End-Assignment?node-id=3%3A34 (Kindly Login or Create your Figma Account to see the style attributes.)
 - Prototype Video: https://drive.google.com/file/d/1d3cAeS9ER7qWzbSmujHDwe23ZmH5G1Vy/preview
 
 3. You can use any framework like (Bootstrap, Tailwind CSS, JavaScript, jQuery, React) of your choice.
 
 4. Tasks which user can perform in this Assessment:
 
-- Add Comment and Replies of a Comment
+- Add Comment and Replies of a Comment (User have to write comment and then click Submit Icon to Add Comment or Reply)
 - Remove his Comment and Replies
-- Like and Unlike Comments & Replies
+- Like and Unlike Comments & Replies (Like count should be updated after Like or Unlike)
 
 ## Assets
 
