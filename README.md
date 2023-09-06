@@ -2,7 +2,7 @@
 
 ## Instructions
 
-1. You are not allowed to push code to this repository. Therefore you are required to create a copy of this repository on your own github account and work / push on it. Hint: Make good use of git clone, git fork, git plugins for vs code etc. After completing the assessment, email the link of repository of your account at hr@systemplus.co. Respository on your account must be **public** for us to access.
+1. You are not allowed to push code to this repository. Therefore you are required to create a copy of this repository on your own github account and work / push on it. Hint: Make good use of git clone, git fork, git plugins for vs code etc. After completing the assessment, email the link of repository of your account at **hr@systemplus.co** with your **Name**, **Email** and **Phone No.** written in that email. Respository on your account must be **public** for us to access.
 
 2. You have to build the "Interactive Comment Section" and get it looking as close to the design as possible. Also your design should be mobile responsive. Also user can perform tasks which are explained in the Point #4 as well as in the Prototype Video.
 
