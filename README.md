@@ -2,9 +2,10 @@
 
 ## Instructions
 
-1. You are not allowed to push code to this repository. Therefore you are required to create a copy of this repository on your own github account and work / push on it. Hint: Make good use of git clone, git fork, git plugins for vs code etc. After completing the assessment, email the link of repository of your account at **hr@systemplus.co** with your **Name**, **Email** and **Phone No.** written in that email. Respository on your account must be **public** for us to access.
+1. You are not allowed to push code to this repository. Therefore you are required to create a copy of this repository on your own github account and work / push on it. Hint: Make good use of git clone, git fork, git plugins for vs code etc. 
+2. How to **submit** finished assessment? Please send it back to the same email thread where you received this assessment and we will take care of the next steps. Respository on your account must be **public** for us to access.
 
-2. You have to build the "Interactive Comment Section" and get it looking as close to the design as possible. Also your design should be mobile responsive. Also user can perform tasks which are explained in the Point #4 as well as in the Prototype Video.
+3. You have to build the "Interactive Comment Section" and get it looking as close to the design as possible. Also your design should be mobile responsive. Also user can perform tasks which are explained in the Point #4 as well as in the Prototype Video.
 
 - Figma Link: https://www.figma.com/file/gdcGm5P12QnYrtuEJcq6TL/Front-End-Assignment?node-id=3%3A34 (Kindly Login or Create your Figma Account to see the style attributes.)
 - Prototype Video: https://drive.google.com/file/d/1d3cAeS9ER7qWzbSmujHDwe23ZmH5G1Vy/preview
