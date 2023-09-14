@@ -1,0 +1,67 @@
+.comment {
+    padding: 10rem;
+    width: 70%;
+}
+.heading {
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.user {
+    padding: 1rem;
+    margin-bottom: 10px;
+}
+.userimage{
+    width: 10%;
+}
+
+.username {
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+#textName{
+    font-weight: 500;
+}
+
+.usercomment{
+    padding-left: 4rem;
+    border: none;
+    font-weight: 300;
+
+}
+.userlike {
+    padding-left: 2.5rem;
+}
+
+.btn {
+    border: none;
+}
+
+.addcomment {
+    padding: 15px;
+}
+
+input {
+    width: 100%;
+    height: 50px;
+    text-decoration: none;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+}
+.userimg{
+    padding-left: 3rem;
+}
+.reply{
+    display: flex;
+    padding-left: 1rem;
+    flex-direction: column;
+}
+#textreply{
+    font-weight: 500;
+}
+.replylike{
+    padding-left: 4.5rem;
+}
